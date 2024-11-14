@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable news
+drawable news_app_icon
+drawable news_background
+drawable placeholder
+drawable sign_up
+mipmap ic_launcher
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+mipmap news
+mipmap news_foreground
+mipmap news_round
+string app_name
+string title_activity_display_news
+string title_activity_login
+string title_activity_main2
+string title_activity_main_page
+string title_activity_registration
+style Theme.NewsHeadlines
+xml backup_rules
+xml data_extraction_rules

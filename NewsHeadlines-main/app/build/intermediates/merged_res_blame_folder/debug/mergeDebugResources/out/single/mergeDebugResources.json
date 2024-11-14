@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\drawable-nodpi_sign_up.jpg.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\drawable-nodpi\\sign_up.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\drawable-nodpi_news.jpg.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\drawable-nodpi\\news.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-hdpi_news_round.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-hdpi\\news_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-hdpi_news_foreground.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-hdpi\\news_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\drawable_placeholder.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\drawable_news.jpeg.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\drawable\\news.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xhdpi_news_round.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xhdpi\\news_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xhdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xhdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-anydpi-v26_news_round.xml.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-anydpi-v26\\news_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxhdpi_news_round.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxhdpi\\news_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-mdpi_news.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-mdpi\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxhdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxhdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xhdpi_news_foreground.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xhdpi\\news_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxxhdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\drawable_news_background.xml.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\drawable\\news_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\drawable_news_app_icon.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\drawable\\news_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-mdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-mdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xhdpi_news.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xhdpi\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-mdpi_news_foreground.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-mdpi\\news_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-anydpi-v26_news.xml.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-anydpi-v26\\news.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxhdpi_news.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxhdpi\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxhdpi_news_foreground.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxhdpi\\news_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxxhdpi_news_foreground.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxxhdpi\\news_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-hdpi_news.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-hdpi\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\drawable_news.jpg.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\drawable\\news.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxxhdpi_news_round.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxxhdpi\\news_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-mdpi_news_round.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-mdpi\\news_round.png"
+    },
+    {
+        "merged": "com.example.newsheadlines.app-debug-42:/drawable-nodpi_sign_up.jpg.flat",
+        "source": "com.example.newsheadlines.app-main-44:/drawable-nodpi/sign_up.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-xxxhdpi_news.png.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-xxxhdpi\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\mipmap-hdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\mipmap-hdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-debug-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mohan\\.gradle\\daemon\\8.9\\com.example.newsheadlines.app-main-44:\\xml\\data_extraction_rules.xml"
+    }
+]

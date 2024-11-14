@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFFFC107</color> <!-- Amber -->
+    <color name="purple_500">#FFFF9800</color> <!-- Deep Orange -->
+    <color name="purple_700">#FFF57C00</color> <!-- Darker Orange -->
+    <color name="teal_200">#FF4CAF50</color> <!-- Green -->
+    <color name="teal_700">#FF2E7D32</color> <!-- Dark Green -->
+    <color name="black">#FF37474F</color> <!-- Blue Grey -->
+    <color name="white">#FFFAFAFA</color> <!-- Light Grey -->
+</resources>
+
